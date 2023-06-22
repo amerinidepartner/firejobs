@@ -1,0 +1,110 @@
+export const Teams = [
+    {
+        id: "1",
+        name: "Alan",
+        image: "images/Alan.jpg",
+        years_of_service: "< 1 year",
+        super_power: "",
+        trophy: "",
+        role: "Videographer/Production Associate",
+        start_date: "9/12/2022",
+        bio: "Going to New York to shoot the penny video for Keeley’s channel! It was a pivotal moment for us a team that brought us closer together.",
+        favorite_pizza_topping: "Jalapeños"
+    },
+    {
+        id: "2",
+        name: "R2",
+        image: "images/R2.jpg",
+        years_of_service: "2 years",
+        super_power: "",
+        trophy: "",
+        role: "Lead Editor",
+        start_date: "12/15/2020",
+        bio: "Getting to climb to the rooftop of the Reunion Tower!",
+        favorite_pizza_topping: "Pineapple"
+    },
+    {
+        id: "3",
+        name: "Tommy",
+        image: "images/Tommy.jpg",
+        years_of_service: "1 year",
+        super_power: "",
+        trophy: "",
+        role: "Assistant Videographer",
+        start_date: "5/16/2022",
+        bio: "The end of 2022 year sprint. Everyone worked hard and the company made sure everyone was able to have a great Christmas. It truly shows you that TBNR is a place you can call FAMILY.",
+        favorite_pizza_topping: "Banana Peppers"
+    },
+    {
+        id: "4",
+        name: "Kristina",
+        image: "images/Kristina.jpg",
+        years_of_service: "1 year",
+        super_power: "",
+        trophy: "",
+        role: "Director, Brianna Channel",
+        start_date: "1/31/2022",
+        bio: "Our 50 YouTuber Hide and Seek at AT&T Stadium! One creator went on their walkie and said, \"Kristina with Production here--we need all hiders to come to the 50 yard line!\" in an attempt to goad the remaining hiders out of their spots and win the $100k! I was so impressed they were able to mimic my voice and their ploy ALMOST worked!",
+        favorite_pizza_topping: "Pepperoni"
+    },
+    {
+        id: "5",
+        name: "Callie",
+        image: "images/Callie.jpg",
+        years_of_service: "1 year",
+        super_power: "",
+        trophy: "",
+        role: "Creative Strategist",
+        start_date: "4/20/2022",
+        bio: "When I got to stay late to help play test the rules for our “Subscriber Battle Royale” video we were planning to shoot soon. Was so much fun running around the office shooting the X-shot blasters and chasing after my coworkers, like real life Call Of Duty!",
+        favorite_pizza_topping: "Pepperoni"
+    },
+    {
+        id: "6",
+        name: "Vince",
+        image: "images/Vince.jpg",
+        years_of_service: "2 years",
+        super_power: "",
+        trophy: "",
+        role: "Videographer",
+        start_date: "8/3/2020",
+        bio: "My favorite memory at tbnr is whenever a team passes a milestone we celebrate each others wins!",
+        favorite_pizza_topping: "Pepperoni"
+    },
+    {
+        id: "7",
+        name: "Jon",
+        image: "images/Jon.jpg",
+        years_of_service: "3 years",
+        super_power: "",
+        trophy: "",
+        role: "Lead Editor",
+        start_date: "10/28/2019",
+        bio: "The edit-bay throwing me an impromptu bachelor party is up there, along with my bosses and co-workers going to my wedding would be among my fondest memories at TBNR.",
+        favorite_pizza_topping: "Supreme"
+    },
+    {
+        id: "8",
+        name: "Monica",
+        image: "images/Monica.jpg",
+        years_of_service: "6 years",
+        super_power: "",
+        trophy: "",
+        role: "Customer Support Supervisor",
+        start_date: "11/21/2016",
+        bio: "My favorite memory is when we were at the old warehouse and had the door open for some fresh air. In walked a very large stray dog and we all ran out of the warehouse and left the dog inside. It turned out the dog was very friendly.",
+        favorite_pizza_topping: "Jalapenos"
+    },
+    {
+        id: "10",
+        name: "Joshua",
+        image: "images/Joshua.png",
+        years_of_service: "1 year",
+        super_power: "",
+        trophy: "",
+        role: "Post Production Manager",
+        start_date: "2/7/2022",
+        bio: "Being the live performance Technical Director at AT&T Cowboy Stadium for the \"I HUNTED 50 YouTubers for $100,000!\" video!",
+        favorite_pizza_topping: "Detroit Style-Pizza"
+    }
+]
